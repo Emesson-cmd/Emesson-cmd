@@ -38,5 +38,7 @@
 ##
 
 <div> 
+
   ![Snake animation](https://github.com/Emesson-cmd/Emesson-cmd/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
