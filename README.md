@@ -1,9 +1,7 @@
 ## Olá! Me chamo Emesson Cavalcante!
 
-- 🔭 Atualmente estou trabalhando com **React Native, React e Desenvolvimento Web**
-- 🌱 Estudando sobre **Melhores práticas de desenvolvimento, código limpo e TypeScript**
-- 💬 Entre em contato via email: **EmerssonKavallcante@gmail.com**
-- 😄 Pronomes: **Ele/Dele**
+- 🔭 I'm currently working with **NextJS, React and React**
+- 💬 Get in touch: **EmerssonKavallcante@gmail.com**
 
 ##
 
