@@ -1,6 +1,6 @@
 ## Olá! Me chamo Emesson Cavalcante!
 
-- 🔭 I'm currently working with **NextJS, React and React**
+- 🔭 I'm currently working with **NextJS, React and TypeScript**
 - 💬 Get in touch: **EmerssonKavallcante@gmail.com**
 
 ##
