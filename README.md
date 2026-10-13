@@ -1,13 +1,13 @@
 
-<h1 align="center">Olá, eu sou o Emesson Cavalcante 👋</h1>
+<h1 align="center">Hi, I'm Emesson Cavalcante 👋</h1>
 
 <h3 align="center">
-  Desenvolvedor Full Stack | TypeScript • React • Node.js • NestJS
+  Full Stack Developer | TypeScript • React • Node.js • NestJS
 </h3>
 
 <p align="center">
-  Desenvolvedor Full Stack com 4 anos de experiência profissional,
-  construindo aplicações web, APIs REST e integrações escaláveis.
+  Full Stack Developer with 4 years of professional experience building
+  web applications, REST APIs, and integrations.
 </p>
 
 <p align="center">
@@ -18,28 +18,28 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://beautiful-tartufo-1352e0.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor Full Stack na SENAI Soluções Digitais, com experiência no desenvolvimento, manutenção e evolução de aplicações web utilizadas por mais de 10 mil usuários.
+I'm a Full Stack Developer at SENAI Soluções Digitais, with experience developing, maintaining, and improving web applications used by more than 10,000 users.
 
-Trabalho tanto no frontend quanto no backend, desenvolvendo interfaces, APIs, regras de negócio, integrações e soluções orientadas a dados.
+I work across the frontend and backend, building user interfaces, REST APIs, business logic, integrations, and data-driven solutions.
 
-Tenho interesse especial em arquitetura de software, qualidade de código, testes automatizados, automação de processos e Inteligência Artificial aplicada a produtos.
+I'm particularly interested in software architecture, code quality, automated testing, process automation, and AI-powered products.
 
-- 🚀 Desenvolvimento Full Stack com TypeScript, React e Node.js.
-- 🏗️ Construção e evolução de APIs REST e integrações.
-- 🧪 Testes automatizados, refatoração e melhoria contínua.
-- 🔐 Segurança de aplicações e confiabilidade de sistemas.
-- 🤖 Integração de recursos de Inteligência Artificial.
-- 📚 Aprendizado contínuo em arquitetura de software e engenharia de sistemas.
+- 🚀 Full Stack development with TypeScript, React, and Node.js.
+- 🏗️ Building and evolving REST APIs and third-party integrations.
+- 🧪 Automated testing, refactoring, and continuous improvement.
+- 🔐 Application security and system reliability.
+- 🤖 Integrating Artificial Intelligence into software products.
+- 📚 Continuously learning about software architecture and engineering.
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### Frontend
 
@@ -73,7 +73,7 @@ Tenho interesse especial em arquitetura de software, qualidade de código, teste
   <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq" width="42" height="42" alt="RabbitMQ" /></a>
 </p>
 
-### Testes, DevOps & Cloud
+### Testing, DevOps & Cloud
 
 <p align="left">
   <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" width="42" height="42" alt="Jest" /></a>
@@ -86,75 +86,75 @@ Tenho interesse especial em arquitetura de software, qualidade de código, teste
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="42" height="42" alt="Linux" /></a>
 </p>
 
-### Inteligência Artificial & Outras tecnologias
+### AI & Other Technologies
 
 <p align="left">
-  <a href="https://ai.google.dev/"><img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python" /></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="42" height="42" alt="Java" /></a>
   <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" width="42" height="42" alt="WordPress" /></a>
 </p>
 
-**Também trabalho com:** Google Gemini, Groq, SendGrid, Webhooks, integração com Discord, CI/CD, Scrum e Kanban.
+**Additional technologies:** Google Gemini, Groq, SendGrid, Webhooks, Discord integrations, CI/CD, Scrum, and Kanban.
 
-## 💼 Experiência profissional
+## 💼 Professional Experience
 
-**Programador Full Stack — SENAI Soluções Digitais**
+### Full Stack Developer — SENAI Soluções Digitais
 
-*Outubro de 2023 – Presente*
+*October 2023 – Present*
 
-- Desenvolvimento e manutenção de aplicações Full Stack utilizadas por mais de 10 mil usuários.
-- Criação e evolução de APIs REST, regras de negócio, autenticação e integrações externas.
-- Implementação de testes automatizados com Jest e React Testing Library.
-- Evolução da cobertura de testes de 0% para 30% no frontend e backend.
-- Refatoração e melhoria da qualidade de código com SonarQube, reduzindo em aproximadamente 40% os problemas identificados.
-- Desenvolvimento de integrações com serviços externos, mensageria e Inteligência Artificial.
-- Participação em todo o ciclo de desenvolvimento, do levantamento de requisitos aos testes, code review e deploy.
+- Develop and maintain Full Stack applications used by more than 10,000 users.
+- Build and evolve REST APIs, business logic, authentication, and third-party integrations.
+- Implement automated tests using Jest and React Testing Library.
+- Increased test coverage from 0% to 30% across frontend and backend.
+- Improve code quality through refactoring and SonarQube analysis, reducing identified issues by approximately 40%.
+- Develop integrations with external services, messaging systems, and AI platforms.
+- Contribute throughout the software development lifecycle, from requirements analysis to implementation, testing, code reviews, and deployment.
 
-**Programador Full Stack — CMOS Drake**
+### Full Stack Developer — CMOS Drake
 
-*Novembro de 2022 – Outubro de 2023*
+*November 2022 – October 2023*
 
-- Desenvolvimento de aplicações utilizando React, Next.js, TypeScript e NestJS.
-- Automação de pipelines de CI/CD com GitHub Actions.
-- Redução do tempo de deploy de 40 para 8 minutos.
-- Implementação de testes automatizados e colaboração em equipes ágeis.
+- Developed applications using React, Next.js, TypeScript, and NestJS.
+- Automated CI/CD pipelines using GitHub Actions.
+- Reduced deployment time from 40 minutes to 8 minutes.
+- Implemented automated tests and collaborated with agile development teams.
 
-## 📚 Atualmente estudando
+## 📚 Currently Learning
 
-- 🏛️ Clean Architecture e princípios SOLID.
-- 🔄 Modernização de sistemas e migração gradual para TypeScript.
-- 🚀 NestJS, Next.js e arquitetura de aplicações escaláveis.
-- ☁️ AWS, infraestrutura local de desenvolvimento e serviços cloud.
-- 🤖 Python e soluções baseadas em Inteligência Artificial.
+- 🏛️ Clean Architecture and SOLID principles.
+- 🔄 Legacy system modernization and incremental TypeScript migration.
+- 🚀 NestJS, Next.js, and scalable application architecture.
+- ☁️ AWS and local cloud development environments.
+- 🤖 Python and AI-powered solutions.
 
-## 🎓 Formação
+## 🎓 Education
 
-**Análise e Desenvolvimento de Sistemas**  
-Centro Universitário Unileão — 2020 a 2022.
+**Associate Degree in Systems Analysis and Development**  
+Unileão University Center — 2020–2022.
 
-## 🌎 Idiomas
+## 🌎 Languages
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Avançado
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Advanced
 
-## 📫 Vamos conversar?
+## 📫 Let's Connect!
 
-Estou aberto a conexões, troca de conhecimento e oportunidades profissionais.
+I'm open to connecting with other developers, sharing knowledge, and exploring professional opportunities.
 
 <p align="left">
   <a href="mailto:EmerssonKavallcante@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/emesson-cavalcante-0662971b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://beautiful-tartufo-1352e0.netlify.app/">
-    <img src="https://img.shields.io/badge/Meu_Portfólio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Sempre aprendendo, construindo e evoluindo como desenvolvedor.</i>
+  <i>Always learning, building, and growing as a software developer.</i>
 </p>
